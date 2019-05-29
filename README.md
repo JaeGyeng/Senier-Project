@@ -3,6 +3,8 @@ python과 openCV를 활용한 간단한 딥러닝 프로그램입니다.
 
 딥러닝으로 귤이 상했는지를 구분합니다.
 
+※아래 링크들은 크롬으로 접속해야합니다.
+
 (1) 용량 문제로 모델 파일(h5)은 따로 첨부합니다. 
 
 https://drive.google.com/open?id=1KR5xRamZ0XxNFSeqNv-sHTHu-vXgPluw
